@@ -101,5 +101,10 @@ Visual, user-friendly dashboard
 
 🔹 Python | 🔹 Pandas | 🔹 NumPy | 🔹 Scikit-learn | 🔹 XGBoost | 🔹 Streamlit | 🔹 Joblib
 
+## 📷 Screenshot
+
+<img width="960" height="540" alt="youtube" src="https://github.com/user-attachments/assets/3f018fd8-b3dc-4b6c-9c1a-5f243660acaa" />
+
+
 ## ✨ Author: Sudhakar M
 📧 For queries: [sudhakar.mvrs@gmail.com]
