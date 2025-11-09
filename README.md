@@ -103,7 +103,8 @@ Visual, user-friendly dashboard
 
 ## 📷 Screenshot
 
-<img width="960" height="540" alt="youtube" src="https://github.com/user-attachments/assets/3f018fd8-b3dc-4b6c-9c1a-5f243660acaa" />
+<img width="1920" height="1008" alt="Screenshot 2025-11-09 211821" src="https://github.com/user-attachments/assets/059a3405-25ec-4fea-bfa5-c8033454868a" />
+
 
 
 ## ✨ Author: Sudhakar M
