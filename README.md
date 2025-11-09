@@ -102,10 +102,9 @@ Visual, user-friendly dashboard
 🔹 Python | 🔹 Pandas | 🔹 NumPy | 🔹 Scikit-learn | 🔹 XGBoost | 🔹 Streamlit | 🔹 Joblib
 
 ## 📷 Screenshot
-<img width="1920" height="1008" alt="Screenshot 2025-11-09 215123" src="https://github.com/user-attachments/assets/3702655a-8b20-42fd-a0f4-8ab214956ad7" />
+<img width="1920" height="1008" alt="Screenshot 2025-11-09 220729" src="https://github.com/user-attachments/assets/4168fea7-73b5-4152-99be-9e38dea7f7e3" />
 
-<img width="1920" height="1008" alt="Screenshot 2025-11-09 214958" src="https://github.com/user-attachments/assets/e090c7a5-6ae1-4726-b0be-522d7d323291" />
-
+<img width="1920" height="1008" alt="Screenshot 2025-11-09 220940" src="https://github.com/user-attachments/assets/e8d06019-98ff-49ff-9d6f-e5e2215159cb" />
 
 
 
