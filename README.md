@@ -110,4 +110,5 @@ Visual, user-friendly dashboard
 
 
 ## ✨ Author: Sudhakar M
-📧 For queries: [sudhakar.mvrs@gmail.com]
+📫 [[LinkedIn]](https://www.linkedin.com/in/sudhakar-m-657ba787/) 
+📧 sudhakar.mvrs@gmail.com
