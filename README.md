@@ -70,9 +70,9 @@ These metrics were chosen to evaluate accuracy and reliability of revenue predic
 
 ## 📌 Results
 
-Lasso Regression achieved the best balance of accuracy and generalization.
+Linear Regression achieved the best balance of accuracy and generalization.
 
-Model evaluation showed high R² (~0.94) and low error values.
+Model evaluation showed high R² (~0.99) and low MAE and MSE error values.
 
 Insights revealed views, watch time, and subscribers as top revenue drivers.
 
